@@ -101,3 +101,6 @@ typings/
 # Lock Modules
 yarn\.lock
 package-lock.json
+
+# Netx
+.next
